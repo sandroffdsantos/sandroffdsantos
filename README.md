@@ -1,5 +1,6 @@
-### Sandro Santos Bio.
-<h1 align="center">👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)</h1>
+<h1 align="center">Sandro Santos</h1>
+
+### Bio:
 👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)
 
 ## Background: 🚧
