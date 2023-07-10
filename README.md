@@ -8,17 +8,17 @@
 
 ## SkillSet:
 * ### Programing Languages:
-* Typescript
-* Javascript
-* Java
-* Puml
+>* Typescript
+>* Javascript
+>* Java
+>* Puml
 * ### IDE
-* VS Code
+>* VS Code
 * ### Version Control
-* Github
-* Github desktop
+>* Github
+>* Github desktop
 * ### Data Base:
-* MySQL
+>* MySQL
 
 
 <!--
