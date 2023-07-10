@@ -23,8 +23,10 @@
 >* Github desktop
 * ### Data Bases:
 >* MySQL
-* ### API Testing:
->* Postman
+* ### Software Testing:
+>* Jest
+>* Stryker
+>* Postman (For API Testing)
 * ### Virtual Machines:
 >* Docker
 
