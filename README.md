@@ -1,4 +1,9 @@
-### Hi there 👋
+### Sandro Santos Bio.
+
+## Background:
+>* **SQA**
+>* Currently enroled in the IT Post-Grad degree "Switch-QA" at: [ISEP-DEI] (https://github.com/Departamento-de-Engenharia-Informatica)
+>* 
 
 <!--
 **sandroffdsantos/sandroffdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
