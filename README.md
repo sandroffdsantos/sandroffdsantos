@@ -1,7 +1,7 @@
 <h1 align="center">Sandro Santos</h1>
 
 ### Bio:
-👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)
+>* 👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)
 
 ## Background: 🚧
 >* **SQA**
@@ -25,6 +25,8 @@
 >* MySQL
 * ### API Testing:
 >* Postman
+* ### Virtual Machines:
+>* Docker
 
 
 <!--
