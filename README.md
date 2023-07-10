@@ -1,24 +1,29 @@
 ### Sandro Santos Bio.
-👤 [LinkedIN] (https://www.linkedin.com/in/sandro-santos-a9768719/)
+<h1 align="center">👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)</h1>
+👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)
 
-## Background:
+## Background: 🚧
 >* **SQA**
-🚧 
 >* Currently enroled in the IT Post-Grad degree "Switch-QA" at: [ISEP-DEI] (https://github.com/Departamento-de-Engenharia-Informatica)
 
-## SkillSet:
+## SkillSet: 🚧
+>* **Requirements Engineering**
+>* **Software Testing**
+>* **Web Services**
 * ### Programing Languages:
 >* Typescript
 >* Javascript
 >* Java
 >* Puml
-* ### IDE
+* ### IDE:
 >* VS Code
-* ### Version Control
+* ### Version Control:
 >* Github
 >* Github desktop
-* ### Data Base:
+* ### Data Bases:
 >* MySQL
+* ### API Testing:
+>* Postman
 
 
 <!--
