@@ -1,4 +1,4 @@
-<g1 align="center">Sandro Santos</g1>
+<h1 align="center">Sandro Santos</h1>
 
 ## Background: 🚧
 >* **SQA**
