@@ -1,8 +1,5 @@
 <h1 align="center">Sandro Santos</h1>
 
-### Bio:
->* 👤 [LinkedIn] (https://www.linkedin.com/in/sandro-santos-a9768719/)
-
 ## Background: 🚧
 >* **SQA**
 >* Currently enroled in the IT Post-Grad degree "Switch-QA" at: [ISEP-DEI] (https://github.com/Departamento-de-Engenharia-Informatica)
