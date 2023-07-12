@@ -1,4 +1,4 @@
-![Code](/01.jpeg)
+![Code](/01.png)
 <h1 align="center">Sandro Santos</h1>
 
 ## Background: 🚧
