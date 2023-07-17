@@ -15,6 +15,7 @@
 >* Java
 >* HTML
 >* CSS
+>* SQL
 >* Puml
 * ### IDE:
 >* VS Code
