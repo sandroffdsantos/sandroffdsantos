@@ -10,9 +10,11 @@
 >* **Software Testing**
 >* **Web Services**
 * ### Programing Languages:
->* Typescript
 >* Javascript
+>* Typescript
 >* Java
+>* HTML
+>* CSS
 >* Puml
 * ### IDE:
 >* VS Code
