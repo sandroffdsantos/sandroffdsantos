@@ -31,6 +31,18 @@
 * ### Virtual Machines:
 >* Docker
 
+<!--
+
+📬 Connect with me:
+Dave Gray | YoutubeDave Gray | TwitterDave Gray | LinkedIn
+
+
+
+💻 Links to Courses & Tutorials:
+HTMLCSSJavaScriptTypeScriptReactReduxTailwind CSSNodeJSExpressMongoDBPythonSQLgit
+-->
+
+
 
 <!--
 **sandroffdsantos/sandroffdsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
