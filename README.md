@@ -1,14 +1,15 @@
-![Code](/01.png)
+![Code](/img/png/code-soft-dev.png)
 <h1 align="center">Sandro Santos</h1>
 
 ## Background: 🚧
 >* **SQA**
->* Currently enroled in the IT Post-Grad degree "Switch-QA" at: [ISEP-DEI] (https://github.com/Departamento-de-Engenharia-Informatica)
+>* Currently enroled in the IT Post-Grad degree "Switch-QA" at: <a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>
 
 ## SkillSet: 🚧
 >* **Requirements Engineering**
->* **Software Testing**
+>* **Software  <abbr name="Test Driven Development">TDD</abbr>**
 >* **Web Services**
+>* **Coding**
 * ### Programing Languages:
 >* Javascript
 >* Typescript
