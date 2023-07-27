@@ -48,7 +48,7 @@
 ## Software Testing:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-3.3.1&q=90&w=1200&s=bea272f9ea195ebd2948b80ebe5439d2" alt="Jest" title="Jest" width="80px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://assets.stickpng.com/images/62cc1b3a150d5de9a3dad5f7.png" alt="Postman" title="Postman" width="90x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://th.bing.com/th/id/R.7b5a2005552602f9a91ffa70411acd48?rik=bOlnS3YHLBlQcA&riu=http%3a%2f%2fwww.microtalleres.es%2fimages%2fpostman-logo.png&ehk=3qKBSP2LXbqbkEaeMctbnvDWJqTABgFmW9NQx1A8oIo%3d&risl=&pid=ImgRaw&r=0" alt="Postman" title="Postman" width="100x">
 <br>
 
 ## Virtual Machines:
