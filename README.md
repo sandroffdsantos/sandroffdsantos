@@ -1,4 +1,4 @@
-![Code](/img/png/code-soft-dev.png)
+<!--![Code](/img/png/code-soft-dev.png)-->
 <h1 align="center">Sandro Santos</h1>
 
 ## Get in Touch: 
