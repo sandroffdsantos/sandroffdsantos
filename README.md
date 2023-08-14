@@ -37,8 +37,6 @@
 ## Runtime:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="VS Code" title="Node JS" width="70px">
-<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ytsp0300.pages.labranet.jamk.fi/images/npm.jpeg" alt="VS Code" title="NPM" width="70px">
 <br>
 
