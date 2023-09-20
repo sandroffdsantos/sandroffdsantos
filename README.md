@@ -8,7 +8,7 @@
 
 
 ## Background: 🚧
->* **<abbr title="Software Quality Assurance">SQA</abbr> Student at <a href="https://www.isep.ipp.pt/Department/Department/14" target="blank">ISEP-DEI</a>**
+>* **<abbr title="Software Quality Assurance">SQA</abbr> Student at <a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**
 >* Currently enroled in the IT Post-Grad degree "Switch-QA" sponsored by <a href="https://portotechhub.com/">Porto TechHub</a>.
 
 ## SkillSet: 🚧
