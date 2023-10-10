@@ -61,6 +61,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" title="Docker" width="90x">
 <br>
+
+## Code Formatter:
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ppp8j6Rw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://m4nu56.dev/images/java-prettier-formatting/prettier.png" width="100">
+<br>
 <br>
 <hr>
 
