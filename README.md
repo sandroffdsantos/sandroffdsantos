@@ -22,10 +22,10 @@
 ## Programing Languages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cmoreira.net/logos-showcase/wp-content/uploads/sites/3/2013/03/512px-Unofficial_JavaScript_logo_2.svg_-400x400.png" alt="JavaScript" title="Javascript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" title="TypeScript" width="60px"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" title="TypeScript" width="60px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" title="HTML" width="59x">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.cdnlogo.com/logos/c/18/css.svg" alt="CSS" title="CSS" width="52px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://th.bing.com/th/id/R.24218682cb0c22e52b64553723a8efd0?rik=yL%2bFS%2f8swpalgQ&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f62a74dd1223343fbc2207d00.png&ehk=A3T0PwCWea4%2beOuTONmVktg%2bdor24nRYHtgZ1HP8b58%3d&risl=&pid=ImgRaw&r=0" alt="react" title="react" width="80x"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://th.bing.com/th/id/R.24218682cb0c22e52b64553723a8efd0?rik=yL%2bFS%2f8swpalgQ&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f62a74dd1223343fbc2207d00.png&ehk=A3T0PwCWea4%2beOuTONmVktg%2bdor24nRYHtgZ1HP8b58%3d&risl=&pid=ImgRaw&r=0" alt="react" title="react" width="80x">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" title="SQL" width="60px">
 
 <!--<img src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png" alt="Java" title="Java" width="120px">-->
