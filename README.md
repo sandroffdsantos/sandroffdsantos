@@ -105,9 +105,3 @@
 ### 9. IDE:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" title="VS Code" width="60px">
-
-<br>
-<br>
-<hr>
-
-<p align="center">&lt;&lt;&lt;&copy;<a href="https://github.com/sandroffdsantos">Sandro Santos</a>&gt;&gt;&gt;</p>
