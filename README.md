@@ -1,72 +1,114 @@
 <!--![Code](/img/png/code-soft-dev.png)-->
 <h1 align="center">Sandro Santos</h1>
 
-## Get in Touch: 
+## Get in Touch:
 
-<a href="https://www.linkedin.com/in/sandro-santos-a9768719/" ><img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="LinkedIn" title="LinkedIn" width="80px"></a>
+<a href="https://www.linkedin.com/in/sandro-santos-a9768719/" ><img src="./img/linkedin.png" alt="LinkedIn" title="LinkedIn" width="80px"></a>
 
+## Background: 📖
 
-
-## Background: 🚧
->* **<abbr title="Software Quality Assurance">SQA</abbr> Student at <a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**
->* Currently enroled in the IT Post-Grad degree "Switch-QA" sponsored by <a href="https://portotechhub.com/">Porto TechHub</a>.
-
-## SkillSet: 🚧
->* **Requirements Engineering**
->* **Software  <abbr title="Test Driven Development">TDD</abbr>**
->* **Web Services**
->* **Coding**
+> - **<abbr title="Software Quality Assurance">SQA</abbr> Student at <a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**
+> - Currently enroled in the IT Post-Grad degree "Switch-QA" sponsored by <a href="https://portotechhub.com/">Porto TechHub</a>.
 
 <br>
 
-## Programing Languages:
+## SkillSet: 🚀
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cmoreira.net/logos-showcase/wp-content/uploads/sites/3/2013/03/512px-Unofficial_JavaScript_logo_2.svg_-400x400.png" alt="JavaScript" title="Javascript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" title="TypeScript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" title="HTML" width="59x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.cdnlogo.com/logos/c/18/css.svg" alt="CSS" title="CSS" width="52px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" alt="react" title="react" width="80x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" title="SQL" width="60px">
+- Software development for Web Services and Web Applications (TDD & BDD).
+  > - Frontend development.
+  > - Backend development.
+- Software testing and quality assurance.
+  > - Manual testing.
+  > - Automated testing.
+  > - Functional testing.
+  > - Non functional testing.
+- Requirements Engineering / Test Specification
 
-<!--<img src="https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png" alt="Java" title="Java" width="120px">-->
 <br>
 
 ## IDE:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" title="VS Code" width="60px">
+
 <br>
 
-## Runtime:
+## Technological Stack:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="VS Code" title="Node JS" width="70px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ytsp0300.pages.labranet.jamk.fi/images/npm.jpeg" alt="VS Code" title="NPM" width="70px">
+### 1. Testing & QA
+
+> - #### Testing Frameworks:
+>   Jest, Gherkin, Cucumber, Webdriver IO, Playwright, Robot Framework, Apache JMeter.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Jest.webp" alt="Jest" title="Jest" width="80px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/cucumber-logo-vector.svg" alt="Cucumber" title="Cucumber" width="70px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/webdriverio-logo-7E0F1B52E5-seeklogo.com.png" alt="Webdriver IO" title="Webdriver IO" width="150px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/playwright.png" alt="Playwright" title="Playwright" width="120px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/robot-framework-logo-FED576FF0B-seeklogo.com.png" alt="Robot Framework" title="Robot Framework" width="80px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/jmeter_square.svg" alt="Apache JMeter" title="Apache JMeter" width="80px">
+
+> - #### API Testing and Development:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Curl-logo.svg.png" alt="cURL" title="cURL" width="200x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Postman.png" alt="Postman" title="Postman" width="100x">
+
 <br>
 
-## Version Control:
+### 2. Version Control:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" title="Git" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" title="Git" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/git.png" alt="Git" title="Git" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Github.png" alt="GitHub" title="GitHub" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Bitbucket-Logo-blue.svg.png" alt="Bitbucket" title="Bitbucket" width="250px">
+
 <br>
 
-## Data Bases:
+### 3. CI / CD:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="MySQL" title="MySQL" width="100px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/github_actions.png" alt="GitHub Actions" title="GitHub Actions" width="80px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/git_hook.png" alt="Git Hooks" title="Git Hooks" width="100px">
+
+### 4. Frontend Development:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/TypeScript.svg" alt="Typescript" title="TypeScript" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/JavaScript.png" alt="JavaScript" title="Javascript" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/html.png" alt="HTML" title="HTML" width="59x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/css.svg" alt="CSS" title="CSS" width="52px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/react.png" alt="react" title="react" width="80x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="90px">
+
 <br>
 
-## Software Testing:
+### 5. Backend Development:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-3.3.1&q=90&w=1200&s=bea272f9ea195ebd2948b80ebe5439d2" alt="Jest" title="Jest" width="80px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://th.bing.com/th/id/R.7b5a2005552602f9a91ffa70411acd48?rik=bOlnS3YHLBlQcA&riu=http%3a%2f%2fwww.microtalleres.es%2fimages%2fpostman-logo.png&ehk=3qKBSP2LXbqbkEaeMctbnvDWJqTABgFmW9NQx1A8oIo%3d&risl=&pid=ImgRaw&r=0" alt="Postman" title="Postman" width="100x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/NodeJs.png" alt="NodeJS" title="NodeJS" width="90px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/TypeScript.svg" alt="Typescript" title="TypeScript" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/JavaScript.png" alt="JavaScript" title="Javascript" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="90px">
+
 <br>
 
-## Virtual Machines:
+> ### 6. Database:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" title="Docker" width="90x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/MySQL.png" alt="MySQL" title="MySQL" width="100px">
+
+> ### 7. Infrastructure
+
+> - #### **Hosting/DevOps:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Bash_Logo_Colored.svg.png" alt="Shell Scripts" title="Shell Scripts" width="100px">
+
+> - #### **Containerization/Orchestration:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/docker.png" alt="Docker" title="Docker" width="90x">
+
 <br>
 
-## Code Formatter:
+> ### 8. OS:
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ppp8j6Rw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://m4nu56.dev/images/java-prettier-formatting/prettier.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Microsoft-Logo.png" alt="Windows" title="Windows" width="200px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/linux.png" alt="Linux" title="Linux" width="100px">
+
 <br>
 <br>
 <hr>
