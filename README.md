@@ -26,18 +26,11 @@
 
 <br>
 
-## IDE:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" title="VS Code" width="60px">
-
-<br>
-
 ## Technological Stack:
 
 ### 1. Testing & QA
 
 > - #### Testing Frameworks:
->   Jest, Gherkin, Cucumber, Webdriver IO, Playwright, Robot Framework, Apache JMeter.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Jest.webp" alt="Jest" title="Jest" width="80px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/cucumber-logo-vector.svg" alt="Cucumber" title="Cucumber" width="70px">
@@ -73,8 +66,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/html.png" alt="HTML" title="HTML" width="59x">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/css.svg" alt="CSS" title="CSS" width="52px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/react.png" alt="react" title="react" width="80x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="200">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="90px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="70px">
 
 <br>
 
@@ -83,16 +76,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/NodeJs.png" alt="NodeJS" title="NodeJS" width="90px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/TypeScript.svg" alt="Typescript" title="TypeScript" width="60px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/JavaScript.png" alt="JavaScript" title="Javascript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="200">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="90px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="70px">
 
 <br>
 
-> ### 6. Database:
+### 6. Database:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/MySQL.png" alt="MySQL" title="MySQL" width="100px">
 
-> ### 7. Infrastructure
+### 7. Infrastructure
 
 > - #### **Hosting/DevOps:**
 
@@ -104,10 +97,14 @@
 
 <br>
 
-> ### 8. OS:
+### 8. OS:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Microsoft-Logo.png" alt="Windows" title="Windows" width="200px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/linux.png" alt="Linux" title="Linux" width="100px">
+
+### 9. IDE:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" title="VS Code" width="60px">
 
 <br>
 <br>
