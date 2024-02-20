@@ -7,7 +7,7 @@
 
 ## Background: 📖
 
-> - IT Post-Grad degree **<abbr title="Software Quality Assurance">SQA</abbr>** at **<a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**, part of "Switch-QA" program sponsored by <a href="https://portotechhub.com/">Porto TechHub</a>.
+> - IT Post-Grad degree **<abbr title="Software Quality Assurance">Software QA</abbr>** at **<a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**, part of "Switch-QA" program sponsored by <a href="https://portotechhub.com/">Porto TechHub</a>.
 > - In a past life, Mechanical Engineer and provider of **<abbr title="Design and Development">D&D</abbr>** consultancy services for the Automotive, Automation and Defense Industries respectively. 
 
 <br>
