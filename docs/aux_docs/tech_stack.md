@@ -16,8 +16,8 @@
 
 #### **API Testing and Development:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/Curl-logo.svg.gif" alt="cURL" title="cURL" width="200x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/Postman.gif" alt="Postman" title="Postman" width="100x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/Curl-logo.svg.gif" alt="cURL" title="cURL" width="200px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/Postman.gif" alt="Postman" title="Postman" width="100px">
 
 <br>
 
@@ -38,10 +38,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/TypeScript.gif" alt="TypeScript" title="TypeScript" width="60px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/JavaScript.gif" alt="JavaScript" title="Javascript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/html.gif" alt="HTML" title="HTML" width="59x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/html.gif" alt="HTML" title="HTML" width="59px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/css.gif" alt="CSS" title="CSS" width="52px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/react.gif" alt="react" title="react" width="80x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/prettier.gif" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/react.gif" alt="react" title="react" width="80px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/prettier.gif" width="150px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img_tech_stack_logos/eslint.gif" alt="ESLint" title="ESLint" width="70px">
 
 <br>
