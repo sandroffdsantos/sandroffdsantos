@@ -1,119 +1,53 @@
-<!--![Code](/img/png/code-soft-dev.png)-->
 <h1 align="center">Sandro Santos</h1>
 
-## Get in Touch:
+<h4 align="center">
 
-<a href="https://www.linkedin.com/in/sandro-santos-a9768719/" ><img src="./img/linkedin.png" alt="LinkedIn" title="LinkedIn" width="80px"></a>
+<img src="./docs/img_project_covers/COVER_PROFILE.gif" alt="Profile" title="Profile" width="1000px">
 
-## Background: 📖
-
-> - IT Post-Grad degree **<abbr title="Software Quality Assurance">Software QA</abbr>** at **<a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**, part of "Switch-QA" program sponsored by <a href="https://portotechhub.com/">Porto TechHub</a>.
-> - In a past life, Mechanical Engineer and provider of **<abbr title="Design and Development">D&D</abbr>** consultancy services for the Automotive, Automation and Defense Industries respectively.
+</h4>
 
 <br>
 
-## SkillSet: 🚀
+# **# About Me:**
 
-- Software development for Web Services and Web Applications (TDD & BDD).
-  > - Frontend development.
-  > - Backend development.
-- Software testing and quality assurance.
-  > - Manual testing.
-  > - Automated testing.
-  > - Functional testing.
-  > - Non functional testing.
-- Requirements Engineering / Test Specification
+### **Hi, Welcome to my GitHub Profile!**
+
+I´m a Junior QA Engineer with a Post-Graduation in **<abbr title="Software Quality Assurance">Software QA</abbr>** from **<a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**, as part of the "Switch-QA" program sponsored by **<a href="https://portotechhub.com/">Porto TechHub</a>**. Currently giving my first steps in the IT world, after a career change from the Engineering field as Design Engineer and Consultant for the Automotive and Defense Industries for almost a decade.
+
+Below you´ll find some complementary information that will give a more indepth view of the technologies, frameworks, principles and architectures i´m familiarized with, as well as some of the most relevant projects I´ve developed or had the pleasure to be part of.
+
+Always keen to collaborate in interesting projects and talk with other IT professionals and passionates, so feel free to connect with me on **LinkedIn**.
+
+### **Let´s Connect**
+
+<a href="https://www.linkedin.com/in/sandro-santos-a9768719/" ><img src="./docs/img_tech_stack_logos/linkedin.gif" alt="LinkedIn" title="LinkedIn" width="100px"></a>
+
+<br>
+<br>
+
+# [# SkillSet:](./docs/aux_docs/skillset.md)
 
 <br>
 
-# Technological Stack:
-
-## **1. Testing & QA:**
-
-#### Testing Frameworks:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Jest.webp" alt="Jest" title="Jest" width="80px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/selenium.png" alt="Selenium" title="Selenium" width="100px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/cucumber-logo-vector.svg" alt="Cucumber" title="Cucumber" width="70px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/webdriverio-logo-7E0F1B52E5-seeklogo.com.png" alt="Webdriver IO" title="Webdriver IO" width="150px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/playwright.png" alt="Playwright" title="Playwright" width="120px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/robot-framework-logo-FED576FF0B-seeklogo.com.png" alt="Robot Framework" title="Robot Framework" width="80px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/jmeter_square.svg" alt="Apache JMeter" title="Apache JMeter" width="80px">
+# [# Technology Stack:](./docs/aux_docs/tech_stack.md)
 
 <br>
 
-#### API Testing and Development:
+# # Projects:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Curl-logo.svg.png" alt="cURL" title="cURL" width="200x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Postman.png" alt="Postman" title="Postman" width="100x">
-
-<br>
-
-## **2. Version Control:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/git.png" alt="Git" title="Git" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Github.png" alt="GitHub" title="GitHub" width="60px">
+- In this section you´ll find a collection of some of the most relevant projects I´ve worked on more recently.
+- This includes a variety of projects ranging from Web Applications, REST APIs, to Games and Utilitary Apps.
 
 <br>
 
-## **3. CI / CD:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Jenkins-logo.svg" alt="Jenkins" title="Jenkins" width="200px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/github_actions.png" alt="GitHub Actions" title="GitHub Actions" width="80px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/git_hook.png" alt="Git Hooks" title="Git Hooks" width="100px">
-
-## **4. Frontend Development:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/TypeScript.svg" alt="Typescript" title="TypeScript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/JavaScript.png" alt="JavaScript" title="Javascript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/html.png" alt="HTML" title="HTML" width="59x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/css.svg" alt="CSS" title="CSS" width="52px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/react.png" alt="react" title="react" width="80x">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="150">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="70px">
-
-<br>
-
-## **5. Backend Development:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/NodeJs.png" alt="NodeJS" title="NodeJS" width="90px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/TypeScript.svg" alt="Typescript" title="TypeScript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/JavaScript.png" alt="JavaScript" title="Javascript" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/prettier.png" width="150">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/eslint.png" alt="ESLint" title="ESLint" width="70px">
-
-<br>
-
-## **6. Database:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/MySQL.png" alt="MySQL" title="MySQL" width="100px">
-
-<br>
-
-## **7. Infrastructure**
-
-#### Hosting/ DevOps:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Bash_Logo_Colored.svg.png" alt="Shell Scripts" title="Shell Scripts" width="100px">
-
-<br>
-
-#### Containerization/ Orchestration:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/docker.png" alt="Docker" title="Docker" width="90x">
-
-<br>
-
-## **8. OS:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/Microsoft-Logo.png" alt="Windows" title="Windows" width="200px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/linux.png" alt="Linux" title="Linux" width="100px">
-
-<br>
-
-## **9. IDE:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" title="VS Code" width="60px">
+|                                                                                                                               |                                                                                                                                             |                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **# DDD Forum App**                                                                                                           | **# Invictus Rental App**                                                                                                                   | **# Image Converter App**                                                                                                           |
+| <img src="./docs/img_project_covers/COVER_PROJECT_DDD-FORUM-APP.gif" alt="DDD Forum App" title="DDD Forum App" width="500px"> | <img src="./docs/img_project_covers/COVER_PROJECT_INVICTUS_RENTAL.gif" alt="Invictus Rental App" title="Invictus Rental App" width="500px"> | <img src="./docs/img_project_covers/COVER_PROJECT_IMAGE_CONVERTER.gif" alt="Image Converter" title="Image Converter" width="500px"> |
+| **# REST API**                                                                                                                | **# N-SYNC**                                                                                                                                | **# Tetris Game**                                                                                                                   |
+| <img src="./docs/img_project_covers/COVER_PROJECT_REST-API.gif" alt="REST API" title="REST API" width="500px">                | <img src="./docs/img_project_covers/COVER_PROJECT_N-SYNC.gif" alt="N-SYNC" title="N-SYNC" width="500px">                                    | <img src="./docs/img_project_covers/COVER_PROJECT_TETRIS-GAME.gif" alt="Tetris Game" title="Tetris Game" width="500px">             |
 
 <br>
 <hr>
+
+<p align="center">&copy;&nbsp;<a href="https://github.com/sandroffdsantos">Sandro Santos</a></p>
