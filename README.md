@@ -95,7 +95,7 @@ Always keen to collaborate in interesting projects and talk with other IT profes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/webdriverIo.gif" alt="Webdriver IO" title="Webdriver IO" width="100px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/playwright.gif" alt="Playwright" title="Playwright" width="80px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/robot-framework.gif" alt="Robot Framework" title="Robot Framework" width="50px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/jmeter.gif" alt="Apache JMeter" title="Apache JMeter" width="50px"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/jmeter.gif" alt="Apache JMeter" title="Apache JMeter" width="50px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Curl.gif" alt="cURL" title="cURL" width="120px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Postman.gif" alt="Postman" title="Postman" width="80px">
 
