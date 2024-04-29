@@ -91,12 +91,12 @@ Always keen to collaborate in interesting projects and talk with other IT profes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Jest.gif" alt="Jest" title="Jest" width="40px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/selenium.gif" alt="Selenium" title="Selenium" width="60px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/cucumber-logo-vector.gif" alt="Cucumber" title="Cucumber" width="40px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/webdriverio-logo-7E0F1B52E5-seeklogo.com.gif" alt="Webdriver IO" title="Webdriver IO" width="100px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/cucumber.gif" alt="Cucumber" title="Cucumber" width="40px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/webdriverIo.gif" alt="Webdriver IO" title="Webdriver IO" width="100px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/playwright.gif" alt="Playwright" title="Playwright" width="80px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/robot-framework-logo-FED576FF0B-seeklogo.com.gif" alt="Robot Framework" title="Robot Framework" width="50px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/jmeter_square.gif" alt="Apache JMeter" title="Apache JMeter" width="50px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Curl-logo.svg.gif" alt="cURL" title="cURL" width="120px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/robot-framework.gif" alt="Robot Framework" title="Robot Framework" width="50px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/jmeter.gif" alt="Apache JMeter" title="Apache JMeter" width="50px"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Curl.gif" alt="cURL" title="cURL" width="120px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Postman.gif" alt="Postman" title="Postman" width="80px">
 
 > ### **Version Control:**
@@ -106,7 +106,7 @@ Always keen to collaborate in interesting projects and talk with other IT profes
 
 > ### **CI / CD:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Jenkins-logo.gif" alt="Jenkins" title="Jenkins" width="120px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Jenkins.gif" alt="Jenkins" title="Jenkins" width="120px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/github_actions.gif" alt="GitHub Actions" title="GitHub Actions" width="60px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/git_hook.gif" alt="Git Hooks" title="Git Hooks" width="80px">
 
@@ -134,12 +134,12 @@ Always keen to collaborate in interesting projects and talk with other IT profes
 
 > ### **Infrastructure:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Bash_Logo_Colored.svg.gif" alt="Bash" title="Bash" width="70px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Bash.gif" alt="Bash" title="Bash" width="70px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/docker.gif" alt="Docker" title="Docker" width="70px">
 
 > ### **OS:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Microsoft-Logo.gif" alt="Windows" title="Windows" width="120px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Microsoft.gif" alt="Windows" title="Windows" width="120px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/linux.gif" alt="Linux" title="Linux" width="70px">
 
 <br>
