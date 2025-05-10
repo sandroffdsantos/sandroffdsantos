@@ -143,8 +143,3 @@ Always keen to collaborate in interesting projects and talk with other IT profes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/Microsoft.gif" alt="Windows" title="Windows" width="120px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./docs/img_tech_stack_logos/linux.gif" alt="Linux" title="Linux" width="70px">
-
-<br>
-<hr>
-
-<p align="center">&copy;&nbsp;<a href="https://github.com/sandroffdsantos">Sandro Santos</a></p>
