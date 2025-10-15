@@ -14,14 +14,12 @@
 
 I´m a QA Engineer with a Post-Graduation in **<abbr title="Software Quality Assurance">Software QA</abbr>** from **<a href="https://www.isep.ipp.pt/Department/Department/14">ISEP-DEI</a>**, as part of the "Switch-QA" program sponsored by **<a href="https://portotechhub.com/">Porto TechHub</a>**.
 
-```
+
 Currently giving my first steps in the IT world, after a career change from the Engineering field as Design Engineer and Consultant for the Automotive and Defense Industries for almost a decade.
 
 Below you´ll find some complementary information that will give a more indepth view of the technologies, frameworks, principles and architectures i´m familiarized with, as well as some of the most relevant projects I´ve developed or had the pleasure to be part of.
 
 Always keen to collaborate in interesting projects and talk with other IT professionals and passionates, so feel free to connect with me on LinkedIn.
-
-```
 
 ### **Let´s Connect**
 
